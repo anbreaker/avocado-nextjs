@@ -1,0 +1,28 @@
+{
+  "name": "avocado-nextjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "next start",
+    "dev": "NODE_OPTIONS='--inspect' next",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anbreaker/avocado-nextjs.git"
+  },
+  "keywords": [],
+  "author": "anbreaker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anbreaker/avocado-nextjs/issues"
+  },
+  "homepage": "https://github.com/anbreaker/avocado-nextjs#readme",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
